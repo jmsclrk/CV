@@ -1,6 +1,6 @@
 <div align="center">
 
-## JAMES CLARK ##
+# JAMES CLARK #
 
 [<img src="https://image.flaticon.com/icons/svg/174/174857.svg" height=40 width=40>](https://uk.linkedin.com/in/james-clark-1a6558ba)
 
@@ -8,11 +8,11 @@
 
 </div>
 
-I'm a full stack software developer with strong technical knowledge who is trained in good coding practices. A recent graduate from Makers Academy, also backed by years of production/project management experience.
+A recent graduate from Makers Academy, I'm a full stack software developer who combines strong technical knowledge and ample training in favoured coding practices with years of production/project management experience.
 
-## Background ##
+## BACKGROUND ##
 
-Backed by 4 years in broadcast in production/project management roles. London. 
+Backed by 4 years in broadcast in production/project management roles, I was no stranger to tech and the constantly changing environment that comes with it. 
 
 Recently completed Makers and my transformation in ability. 
 
@@ -87,5 +87,5 @@ A Level: Maths (A), Chemistry (A), Biology (A)
 **Development Researcher at Hungry Bear Media (May 2015 - May 2016)**
 <br>
 
-### INTERESTS ###
+## INTERESTS ##
 •	Dedicated gym-goer and runner who often takes part in organised charity events, successfully sticking to a strict fitness routine around a busy work schedule. 
