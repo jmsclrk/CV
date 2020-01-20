@@ -2,11 +2,13 @@
 
 ## JAMES CLARK ##
 ---
+
+<div width=40 height=40>
 [![LinkedIn Logo](https://image.flaticon.com/icons/svg/174/174857.svg)](https://uk.linkedin.com/in/james-clark-1a6558ba)
 
 
 [Background](#background) | [Coding](#coding) | [Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Interests](#interests)
-
+</div>
 </div>
 
 I'm a full stack software developer with strong technical knowledge who is trained in good coding practices. A recent graduate from Makers Academy, also backed by years of production/project management experience.
