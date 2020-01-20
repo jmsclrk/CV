@@ -1,7 +1,6 @@
 <div align="center">
 
 ## JAMES CLARK ##
----
 
 [<img src="https://image.flaticon.com/icons/svg/174/174857.svg" height=40 width=40>](https://uk.linkedin.com/in/james-clark-1a6558ba)
 
@@ -12,7 +11,6 @@
 I'm a full stack software developer with strong technical knowledge who is trained in good coding practices. A recent graduate from Makers Academy, also backed by years of production/project management experience.
 
 ## Background ##
----
 
 Backed by 4 years in broadcast in production/project management roles. London. 
 
@@ -23,7 +21,6 @@ What I am looking for and what I find important. Continuous learning.
 <br>
 
 ## CODING ##
----
 ### TECH SKILLS ###
 * Javascript, Node.js, Express.js, JQuery, React, React Native, Cypress, Jasmine, Jest
 * Ruby, Rails, Sinatra, RSpec, Capybara
@@ -48,8 +45,6 @@ What I am looking for and what I find important. Continuous learning.
 <br>
 
 ## SKILLS ##
----
-
 Positive
 
 Quick Study
@@ -67,7 +62,6 @@ Communication
 <br>
 
 ## EDUCATION ##
----
 **Makers Academy (Aug 2019 - Dec 2019)**
 * Focus TDD, pair programming and agile.
 * Object oriented programming
@@ -86,7 +80,6 @@ A Level: Maths (A), Chemistry (A), Biology (A)
 
 
 ## PROFESSIONAL EXPERIENCE ##
----
 **Production Manager / Coordinator at Sky Sports (Nov 2017 - Jul 2019)**
 
 **Production Coordinator at BBC (May 2016 - November 2017)**
@@ -95,5 +88,4 @@ A Level: Maths (A), Chemistry (A), Biology (A)
 <br>
 
 ### INTERESTS ###
----
 •	Dedicated gym-goer and runner who often takes part in organised charity events, successfully sticking to a strict fitness routine around a busy work schedule. 
