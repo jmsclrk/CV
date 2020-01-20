@@ -2,7 +2,7 @@
 
 ## JAMES CLARK ##
 ---
-[![LinkedIn Logo](https://image.flaticon.com/icons/svg/174/174857.svg =40x40 )](https://uk.linkedin.com/in/james-clark-1a6558ba)
+[![LinkedIn Logo](https://image.flaticon.com/icons/svg/174/174857.svg)](https://uk.linkedin.com/in/james-clark-1a6558ba)
 
 
 [Background](#background) | [Coding](#coding) | [Skills](#skills) | [Education](#education) | [Professional Experience](#professional-experience) | [Interests](#interests)
