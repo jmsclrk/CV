@@ -37,8 +37,7 @@ I am looking to bring my user-focused approach, drive and dedication to a team w
 #### CURRENT SELF-LED PROJECTS ####
 | Project | Description | Technologies | Testing |
 |---------|-------------|--------------|---------|
-| SmartGroceries | A grocery shopping tool that allows you to shop by recipes, making it easier to plan your meals. To help fight food waste, as you begin adding groceries to your basket the app will look at your groceries as well as any that are left over from already basket'd recipes before suggesting other recipes that best match what you already have in your basket. | Django API, React, React Native | Pytest, Jest|
-| GymPad | A workout tracker for mobile that has a simple UI but many useful features, with an aim to be deployed on the App Store and Google Play. | React Native | Jest |
+| SmartBasket[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/smart-basket-web-app) | A grocery shopping tool that allows you to shop by recipes, making it easier to plan your meals. To help fight food waste, as you begin adding groceries to your basket the app will look at your groceries as well as any that are left over from already basket'd recipes before suggesting other recipes that best match what you already have in your basket. | Django API, React, React Native | Pytest, Jest|
 | Swimming Instructor Website | A soon-to-be live website for a swimming coach based in London. Experience working with a client to discuss key requirements, priorities and what is possible within the timeframe. | Node.js, Express.js | Jest |
 <br>
 
