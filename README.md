@@ -19,7 +19,7 @@ I am looking to bring my user-focused approach, drive and dedication to a team w
 
 ## CODING ##
 #### TECH SKILLS ####
-* Javascript, Node.js, Express.js, JQuery, React, React Native, Cypress, Jasmine, Jest
+* Javascript, Node.js, Express.js, JQuery, React, Redux, React Native, Cypress, Jasmine, Jest, Enzyme
 * Ruby, Rails, Sinatra, RSpec, Capybara
 * Python, Django, Rest Framework, Pytest
 * PostgreSQL, MongoDB
