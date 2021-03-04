@@ -39,7 +39,7 @@ _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build 
 * Highly customisable workouts, streamlined editing.
 * Well thought out object relationships.
 * Offline management and version control allowing seamless use online, offline and across numerous devices.
-* Dark mode available, customisable themes.
+* Dark mode and customisable themes.
 * Reusable exercises with autocomplete feature.
 * Currently only released to iOS but has been built Android ready. 
 * See the video demo for app breakdown and future features.
