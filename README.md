@@ -29,7 +29,7 @@ I am looking to bring my drive, dedication and user-focused approach to a team w
 #### PROJECTS ####
 **GymPad (React Native / Django / Docker)**[<img src="https://github.com/jmsclrk/CV/blob/master/images/gympad-logo.png" height=50 width=50>](https://apps.apple.com/gb/app/gympad/id1505074064) <br>
 _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build my own._ <br>
-<a href="https://apps.apple.com/gb/app/gympad/id1505074064/" target="_blank">App Store</a> / [Video Demo](#) / [Code Base](#)
+[App Store](https://apps.apple.com/gb/app/gympad/id1505074064/) / [Video Demo](#) / [Code Base](#)
 * Gym tracking note app.
 * Streamlined editing and very customisable.
 * Well thought out object relationships.
