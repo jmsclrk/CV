@@ -41,6 +41,7 @@ _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build 
 * Currently only released to iOS but has been built Android ready. 
 * See the video demo for app breakdown and future features.
 <br>
+
 [<img src="https://github.com/jmsclrk/CV/blob/master/images/ammahackney-logo.png" height=100 width=100>](https://www.ammahackney.co.uk) <br>
 **Amma Hackney (React / Django)** <br> 
 _A new food business based in Hackney, offering monthly online supper clubs._ <br>
