@@ -5,7 +5,7 @@
 [Background](#background) | [Coding](#coding) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 </div>
 
-A Makers Academy graduate, with two live freelance projects, that has been employed as an Integration Engineer for the past year. I'm a full stack software developer combining strong technical knowledge with ample training in favoured coding practices, backed by 4 years in broadcast within production/project management roles
+A Makers Academy graduate with two live freelance projects, that has been employed as an Integration Engineer for the past year. I'm a full stack software developer combining strong technical knowledge with ample training in favoured coding practices, backed by 4 years in broadcast within production/project management roles.
 <br>
 
 ## BACKGROUND ##
