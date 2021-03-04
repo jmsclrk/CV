@@ -18,7 +18,7 @@ I am looking to bring my drive, dedication and user-focused approach to a team w
 <br>
 
 ## CODING ##
-![tech-skills](https://github.com/jmsclrk/CV/blob/master/images/tech-skills.jpg?raw=true)
+[![tech-skills](https://github.com/jmsclrk/CV/blob/master/images/tech-skills.jpg?raw=true)](#coding)
 #### PROFFESIONAL TECH ROLES ####
 **Integration Engineer at Avado (Mar 2020 - Feb 2021)** <br>
 * Built and deployed C# web apps that integrated Avado's systems and automated time consuming processes. 
@@ -27,9 +27,9 @@ I am looking to bring my drive, dedication and user-focused approach to a team w
 * Being part of the data team, worked closely with the wider tech department (data science, business intelligence). Provided insights to the importance of the quality of data being collected from the frontend and how the data is used by the business. 
 
 #### PROJECTS ####
-**GymPad (React Native / Django / Docker)**[<img src="https://github.com/jmsclrk/CV/blob/master/images/gympad-logo.png" height=50 width=50>](https://apps.apple.com/gb/app/gympad/id1505074064) <br>
+**GymPad (React Native / Django / Docker)**[<img src="https://github.com/jmsclrk/CV/blob/master/images/gympad-logo.png" height=50 width=50>](https://apps.apple.com/gb/app/gympad/id1505074064){:target="_blank"} <br>
 _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build my own._ <br>
-[App Store](https://apps.apple.com/gb/app/gympad/id1505074064) / [Video Demo](#) / [Code Base](#)
+[App Store](https://apps.apple.com/gb/app/gympad/id1505074064){:target="_blank"} / [Video Demo](#) / [Code Base](#)
 * Gym tracking note app.
 * Streamlined editing and very customisable.
 * Well thought out object relationships.
@@ -38,9 +38,9 @@ _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build 
 * Currently only released to iOS but has been built Android ready. 
 * See the video demo for app breakdown and future features.
 
-**Amma Hackney (React / Django)**[<img src="https://github.com/jmsclrk/CV/blob/master/images/ammahackney-logo.png" height=50 width=50>](https://www.ammahackney.co.uk) <br>
+**Amma Hackney (React / Django)**[<img src="https://github.com/jmsclrk/CV/blob/master/images/ammahackney-logo.png" height=50 width=50>](https://www.ammahackney.co.uk){:target="_blank"} <br>
 _A new food business based in Hackney, offering monthly online supper clubs._ <br>
-www.ammahackney.co.uk
+[ammahackney.co.uk](https://www.ammahackney.co.uk){:target="_blank"}
 * Reactive layout snaps between one and two panels depending on screen width.
 * Order form POSTs to Django backend, submits order to Google Forms before emailing confirmation via the Gmail API.
 * Admin area to manage menu, order dates and instructions.
@@ -51,8 +51,8 @@ www.ammahackney.co.uk
 #### MAKERS PROJECTS ####
 | Project | Description | Technologies | Testing |
 |---------|-------------|--------------|---------|
-| **WordBall** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/wordball-react) [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://word-ball.herokuapp.com) | A two-part game consisting of a skill round (powered by a physics engine) and a word round (integrating with a third-party anagram API). | Node.js, JQuery, React.js, Express.js| Jasmine, Cypress, nyc, eslint |
-| **Acebook** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/acebook--LizardBook-) [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://lizardbook.herokuapp.com) | A Makers group project where we built a feature rich Facebook clone in 10 days using agile processes. | Rails, JQuery, Bootstrap | RSpec, Capybara |
+| **WordBall** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/wordball-react){:target="_blank"} [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://word-ball.herokuapp.com){:target="_blank"} | A two-part game consisting of a skill round (powered by a physics engine) and a word round (integrating with a third-party anagram API). | Node.js, JQuery, React.js, Express.js| Jasmine, Cypress, nyc, eslint |
+| **Acebook** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/acebook--LizardBook-){:target="_blank"} [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://lizardbook.herokuapp.com){:target="_blank"} | A Makers group project where we built a feature rich Facebook clone in 10 days using agile processes. | Rails, JQuery, Bootstrap | RSpec, Capybara |
 
 
 ## EDUCATION ##
