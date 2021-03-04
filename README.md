@@ -5,7 +5,7 @@
 [Background](#background) | [Coding](#coding) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 </div>
 
-A Makers Academy graduate with two live freelance projects, who has been employed as an Integration Engineer for the past year. I'm a full stack software developer combining strong technical knowledge with ample training in favoured coding practices, backed by 4 years in broadcast within production/project management roles.
+A Makers Academy graduate, with two live freelance projects, who has been employed as an Integration Engineer for the past year. I'm a full stack software developer combining strong technical knowledge with ample training in favoured coding practices, backed by 4 years in broadcast within production/project management roles.
 <br>
 
 ## BACKGROUND ##
@@ -22,9 +22,11 @@ I am looking to bring my drive, dedication and user-focused approach to a team w
 ### PROFFESIONAL TECH ROLES ###
 **Integration Engineer at Avado (Mar 2020 - Feb 2021)** <br>
 * Built and deployed C# web apps that integrated Avado's systems and automated time consuming processes. 
-* Faced complex coding challenges working with large data objects and integrating with numerous 3rd party APIs. 
-* Data engineering experience: improved my database knowledge and greatly developed my SQL capabilities.
+* Faced complex coding challenges working with large data objects and integrating with numerous 3rd party APIs, developing reusable components to simplify working with external tools and services used by Avado.
+* Refactored legacy code to improve performance, structure and reusability.
+* Data engineering experience: improved my database design knowledge and greatly developed my SQL capabilities creating complex views and procedures to transform and cleanse data.
 * As part of the data team, worked closely with the wider tech department (data science, business intelligence), getting insights into the importance of the quality of data being collected from the frontend and how the data is used by the business. 
+* Scoped tickets to a high standard, code reviewed peers’ tickets providing timely feedback.
 
 
 ### PROJECTS ###
