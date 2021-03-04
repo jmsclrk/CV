@@ -19,16 +19,19 @@ I am looking to bring my drive, dedication and user-focused approach to a team w
 
 ## CODING ##
 [![tech-skills](https://github.com/jmsclrk/CV/blob/master/images/tech-skills.jpg?raw=true)](#coding)
-#### PROFFESIONAL TECH ROLES ####
+### PROFFESIONAL TECH ROLES ###
 **Integration Engineer at Avado (Mar 2020 - Feb 2021)** <br>
 * Built and deployed C# web apps that integrated Avado's systems and automated time consuming processes. 
 * Faced complex coding challenges working with large data objects and integrating with numerous 3rd party APIs. 
 * Data engineering experience: improved my database knowledge, greatly developed my SQL capabilities.
 * Being part of the data team, worked closely with the wider tech department (data science, business intelligence). Provided insights to the importance of the quality of data being collected from the frontend and how the data is used by the business. 
 
-#### PROJECTS ####
-**GymPad (React Native / Django / Docker)**[<img src="https://github.com/jmsclrk/CV/blob/master/images/gympad-logo.png" height=50 width=50>](https://apps.apple.com/gb/app/gympad/id1505074064) <br>
+
+### PROJECTS ###
+
+**GymPad (React Native / Django / Docker)** <br> 
 _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build my own._ <br>
+[<img src="https://github.com/jmsclrk/CV/blob/master/images/gympad-logo.png" height=100 width=100>](https://apps.apple.com/gb/app/gympad/id1505074064) <br>
 [App Store](https://apps.apple.com/gb/app/gympad/id1505074064/) / [Video Demo](#) / [Code Base](#)
 * Gym tracking note app.
 * Streamlined editing and very customisable.
@@ -38,8 +41,9 @@ _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build 
 * Currently only released to iOS but has been built Android ready. 
 * See the video demo for app breakdown and future features.
 
-**Amma Hackney (React / Django)**[<img src="https://github.com/jmsclrk/CV/blob/master/images/ammahackney-logo.png" height=50 width=50>](https://www.ammahackney.co.uk) <br>
+**Amma Hackney (React / Django)** <br> 
 _A new food business based in Hackney, offering monthly online supper clubs._ <br>
+[<img src="https://github.com/jmsclrk/CV/blob/master/images/ammahackney-logo.png" height=100 width=100>](https://www.ammahackney.co.uk) <br>
 [ammahackney.co.uk](https://www.ammahackney.co.uk)
 * Reactive layout snaps between one and two panels depending on screen width.
 * Order form POSTs to Django backend, submits order to Google Forms before emailing confirmation via the Gmail API.
@@ -48,7 +52,7 @@ _A new food business based in Hackney, offering monthly online supper clubs._ <b
 * Initial release was simply to improve the user experience (previously orders were made directly through Google Forms).
 * Next release will replace Google Forms altogether with a new custom built shop experience where users can order the 'Set Menu' for delivery, but also purchase other standalone items.
 
-#### MAKERS PROJECTS ####
+### MAKERS PROJECTS ###
 | Project | Description | Technologies | Testing |
 |---------|-------------|--------------|---------|
 | **WordBall** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/wordball-react)[<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://word-ball.herokuapp.com) | A two-part game consisting of a skill round (powered by a physics engine) and a word round (integrating with a third-party anagram API). | Node.js, JQuery, React.js, Express.js| Jasmine, Cypress, nyc, eslint |
@@ -85,6 +89,7 @@ Managing diverse production crews ranging from 20 to 250 people in Europe and th
 <br>
 
 ## EXPERIENCE ##
+#### BROADCAST / TELEVISION CAREER ####
 **Production Manager / Coordinator at Sky Sports (Nov 2017 - Jul 2019)** <br>
 End-to-end supervision of the complete production process for golf sporting events covered by Sky Sports. Worked closely with the Head of Golf to accommodate for up to four golf tournaments per week, determining the scale of production and facilitating the delivery of live coverage to customers whether on site or based at Sky Studios.
 
