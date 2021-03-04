@@ -12,7 +12,7 @@ A Makers Academy graduate, with two live freelance projects, that has been emplo
 
 Studying at Makers instilled in me many of the best coding practices. I am trained in, and am a true advocate of: agile development, test-driven development and object-oriented programming. Makers also emphasise the importance of wellbeing and provide invaluable workshops that further built upon my already strong teamwork abilities and empathetic nature. 
 
-For the past year I've worked at the online learning company, Avado, as an Integration Engineer where I have greatly improved and refined my backend skills. During this time I have demonstrated my commitment to growing as a full stack engineer by developing and deploying two projects that required a heavy focus on upskilling my frontend abilities: a React Native fitness app (available on iOS devices via the App Store) and a React website for a small food business based in Hackney. 
+For the past year I've worked at the online learning company, Avado, as an Integration Engineer where I have greatly improved and refined my backend skills. During this time I have demonstrated my commitment to growing as a full stack engineer by developing and deploying two projects that required a heavy focus on upskilling my frontend abilities: a React Native fitness app (available on iOS devices via the App Store) and a React website for a small food business based in Hackney, London. 
 
 I am looking to bring my drive, dedication and user-focused approach to a team who are: passionate about good coding practices, have strong team dynamics, and provide a supportive learning environment that encourages further development.
 <br>
@@ -44,7 +44,7 @@ _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build 
 
 [<img src="https://github.com/jmsclrk/CV/blob/master/images/ammahackney-logo.png" height=100 width=100>](https://www.ammahackney.co.uk) <br>
 **Amma Hackney (React / Django)** <br> 
-_A new food business based in Hackney, offering monthly supper clubs delivered._ <br>
+_A new food business offering monthly supper clubs delivered, based in Hackney, London._ <br>
 [ammahackney.co.uk](https://www.ammahackney.co.uk)
 * Responsive layout snaps between one and two panels depending on screen width.
 * Order form POSTs to Django backend, submits order to Google Forms before emailing confirmation via the Gmail API.
