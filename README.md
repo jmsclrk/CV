@@ -5,41 +5,55 @@
 [Background](#background) | [Coding](#coding) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 </div>
 
-A recent graduate from Makers Academy, I'm a full stack software developer combining strong technical knowledge and ample training in favoured coding practices, with years of production/project management experience.
+A graduate from Makers Academy, with two live personal projects, that has been employed as a Integration Engineer for the past year. I'm a full stack software developer combining strong technical knowledge with ample training in favoured coding practices, backed by 4 years in broadcast within production/project management roles
 <br>
 
 ## BACKGROUND ##
 
-Backed by 4 years in broadcast within production/project management roles, I am no stranger to the constantly changing environment of technology. I discovered my affinity to technology early on in my broadcast career, progressively steering more of my projects at Sky towards those with more technical demands. I often found problem solving with the developer teams the most fulfilling part of my role, which led me to take the leap and apply to an intensive coding bootcamp.
+Studying at Makers instilled in me many of the best coding practices. I am trained in, and am a true advocate of, agile development, test-driven development and object-oriented programming. Makers also emphasise the importance of wellbeing, providing invaluable workshops that further built upon my already strong teamwork abilities and empathetic nature. 
 
-Studying at Makers has instilled in me many of the best coding practices. I am trained in, and am a true advocate of, agile development, test-driven development, object-oriented programming and pair programming. Makers also emphasise a focus on wellbeing, providing invaluable workshops that further built upon my already strong teamwork abilities and empathetic nature. 
+For the past year I have worked at the online learning company, Avado, as an Integration Engineer - a role that has greatly improved and refined my backend skills. During this time I have demonstrated my commitment to growing as a full stack engineer by developing and deploying two projects that required a heavy focus on upskilling my frontend abilities - a React Native fitness app (available on iOS devices via the App Store) and a React app for a small food business based in Hackney. 
 
-I am looking to bring my user-focused approach, drive and dedication to a team who are: passionate about good coding practices, display strong team dynamics, and facilitate an expansive further learning environment by supporting and encouraging further development.
+I am looking to bring my drive, dedication and user-focused approach to a team who are: passionate about good coding practices, have strong team dynamics, and provide a supportive learning environment that encourages further development.
 <br>
 
 ## CODING ##
-#### TECH SKILLS ####
-* Javascript, Node.js, Express.js, JQuery, React, Redux, React Native, Cypress, Jasmine, Jest, Enzyme
-* Ruby, Rails, Sinatra, RSpec, Capybara
-* Python, Django, Rest Framework, Pytest
-* PostgreSQL, MongoDB
-* HTML, CSS, Bootstrap, Bulma
+![tech-skills](https://github.com/jmsclrk/CV/blob/master/images/tech-skills.jpg?raw=true)
+#### PROFFESIONAL TECH ROLES ####
+**Integration Engineer at Avado (Mar 2020 - Feb 2021)** <br>
+* Built and deployed C# web apps that integrated Avado's systems and automated time consuming processes. 
+* Faced complex coding challenges working with large data objects and integrating with numerous 3rd party APIs. 
+* Data engineering experience: improved my database knowledge, greatly developed my SQL capabilities.
+* Being part of the data team, worked closely with the wider tech department (data science, business intelligence). Provided insights to the importance of the quality of data being collected from the frontend and how the data is used by the business. 
 
-(Python and React Native learned after Makers)
+#### PROJECTS ####
+**GymPad (React Native / Django / Docker)**[<img src="https://github.com/jmsclrk/CV/blob/master/images/gympad-logo.png" height=50 width=50>](https://apps.apple.com/gb/app/gympad/id1505074064) <br>
+_Couldn't find a gym notes app I liked, so saw the perfect opportunity to build my own._ <br>
+[App Store](https://apps.apple.com/gb/app/gympad/id1505074064) / [Video Demo](#) / [Code Base](#)
+* Gym tracking note app.
+* Streamlined editing and very customisable.
+* Well thought out object relationships.
+* Offline management and version control allowing seamless use online, offline and across numerous devices.
+* Reusable exercises with autocomplete.
+* Currently only released to iOS but has been built Android ready. 
+* See the video demo for app breakdown and future features.
+
+**Amma Hackney (React / Django)**[<img src="https://github.com/jmsclrk/CV/blob/master/images/ammahackney-logo.png" height=50 width=50>](https://www.ammahackney.co.uk) <br>
+_A new food business based in Hackney, offering monthly online supper clubs._ <br>
+www.ammahackney.co.uk
+* Reactive layout snaps between one and two panels depending on screen width.
+* Order form POSTs to Django backend, submits order to Google Forms before emailing confirmation via the Gmail API.
+* Admin area to manage menu, order dates and instructions.
+* Worked closely with the stakeholder to build and agree on functionality and an aesthetic that worked for them.
+* Initial release was simply to improve the user experience (previously orders were made directly through Google Forms).
+* Next release will replace Google Forms altogether with a new custom built shop experience where users can order the 'Set Menu' for delivery, but also purchase other standalone items.
 
 #### MAKERS PROJECTS ####
 | Project | Description | Technologies | Testing |
 |---------|-------------|--------------|---------|
-| **WordBall** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/wordball-react) [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://wordballxtreme.herokuapp.com) | A two-part game consisting of a skill round (powered by a physics engine) and a word round (integrating with a third-party anagram API). | Node.js, JQuery, React.js, Express.js| Jasmine, Cypress, nyc, eslint |
+| **WordBall** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/wordball-react) [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://word-ball.herokuapp.com) | A two-part game consisting of a skill round (powered by a physics engine) and a word round (integrating with a third-party anagram API). | Node.js, JQuery, React.js, Express.js| Jasmine, Cypress, nyc, eslint |
 | **Acebook** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/acebook--LizardBook-) [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://lizardbook.herokuapp.com) | A Makers group project where we built a feature rich Facebook clone in 10 days using agile processes. | Rails, JQuery, Bootstrap | RSpec, Capybara |
-| **Battle** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/battle) [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://battlechallengemakersjc.herokuapp.com) **RPS-LS** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/rps-challenge) [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](https://rpschallengemakersjc.herokuapp.com)  | Game week at Makers. Week pair programming challenge: a battle game simulator game. Weekend solo challenge: a rock, paper, scissors, lizard, spock game. In both games a player can battle against another player or a computer.  | Sinatra | RSpec, Capybara |
 
-#### CURRENT SELF-LED PROJECTS ####
-| Project | Description | Technologies | Testing |
-|---------|-------------|--------------|---------|
-| **SmartBasket** <br> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=29 width=29>](https://github.com/jmhc22/smart-basket-web-app) [<img src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" height=26 width=26>](http://smartbasketuk.herokuapp.com/) | A grocery shopping tool that allows you to shop by recipes, making it easier to plan your meals. To help fight food waste, as you begin adding groceries to your basket the app will look at your groceries as well as any that are left over from already basket'd recipes before suggesting other recipes that best match what you already have in your basket. | Django API, React, React Native | Pytest, Jest|
-| Swimming Instructor Website | A soon-to-be live website for a swimming coach based in London. Experience working with a client to discuss key requirements, priorities and what is possible within the timeframe. | Node.js, Express.js | Jest |
-<br>
 
 ## EDUCATION ##
 **Makers Academy (Aug 2019 - Dec 2019)** <br>
@@ -64,7 +78,7 @@ This was an essential skill while planning all logistical, financial and technol
 Led a project to determine the full legal requirements that were necessary to comply with strict French Employment Laws when sending a large number of employees, freelancers and subcontractors to France for the 2018 Ryder Cup. Had to quickly become well versed in the full legal requirements, working closely with Sky’s Legal and Tax departments to develop an efficient process that would fully cover everyone attending the event and be easily repeated for future Sky events in France.
 
 **Positive** <br>
-I bring a positive energy and outlook to teams that I work with. In high-stress situations I maintain clarity, helping to pick the team up and drive towards effective and timely solutions. I have resolved conflicts between team members and encouraged others who have lost confidence. 
+I bring a positive energy and outlook to teams that I work with. In high-stress situations I maintain clarity, helping to pick the team up and drive towards effective and timely solutions. I have helped resolve conflicts between team members and encouraged others who have lost confidence. 
 
 **Adaptable** <br>
 Managing diverse production crews ranging from 20 to 250 people in Europe and the United States meant that I had to be flexible in my approach to different members of the team. I also needed to have an in-depth knowledge of everyone’s roles and all resources available ready to step into a number of different positions in order to counter unexpected problems.
@@ -72,10 +86,9 @@ Managing diverse production crews ranging from 20 to 250 people in Europe and th
 
 ## EXPERIENCE ##
 **Production Manager / Coordinator at Sky Sports (Nov 2017 - Jul 2019)** <br>
-End-to-end supervision of the complete production process for golf sporting events covered
-by Sky Sports. Working closely with the Head of Golf to accommodate for up to four golf tournaments per week, determining the scale of production and facilitating the delivery of live coverage to customers whether on site or based at Sky Studios.
+End-to-end supervision of the complete production process for golf sporting events covered by Sky Sports. Worked closely with the Head of Golf to accommodate for up to four golf tournaments per week, determining the scale of production and facilitating the delivery of live coverage to customers whether on site or based at Sky Studios.
 
-**Production Coordinator at BBC (May 2016 - November 2017)** <br>
+**Production Coordinator at BBC (May 2016 - Nov 2017)** <br>
 Developed close relationships with all departments and service-providing companies as the primary production contact, internally and externally. Countered unexpected problems during production with both instant and longer-term solutions to resume filming immediately and also prevent recurrence.
 
 **Development Researcher at Hungry Bear Media (May 2015 - May 2016)** <br>
