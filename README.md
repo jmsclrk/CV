@@ -80,10 +80,10 @@ Coming from a production/project management role, ensuring and maintaining effec
 This was an essential skill while planning all logistical, financial and technological aspects of a production, ensuring and reporting cost efficiency, building and managing a balanced team, and ensuring health and safety whilst on site. 
 
 **Quick Study** <br>
-Picked up many new technologies and coding languages at Avado, quickly becoming autonomous and comofortable using them to a high standard. Led a project to determine the full legal requirements that were necessary to comply with strict French Employment Laws when sending a large number of employees, freelancers and subcontractors to France for the 2018 Ryder Cup. Had to quickly become well versed in the full legal requirements, working closely with Sky’s Legal and Tax departments to develop an efficient process that would fully cover the crew.
+Picked up many new technologies and coding languages at Avado, quickly becoming autonomous and comofortable using them to a high standard. Led a project determining and quickly becoming well versed in the full legal requirements to comply with strict French Employment Laws when sending a large number of employees, freelancers and subcontractors to work in France for the 2018 Ryder Cup. 
 
 **Positive** <br>
-I bring a positive energy and outlook to teams that I work with. Remaining calm in high-stress situations, I help improve team motivation and focus on effective and timely solutions. I have helped resolve conflicts between team members and encouraged others who have lost confidence. 
+I bring a positive energy and outlook to teams that I work with. I remain calm in high-stress situations, helping to restore team motivation and drive focus towards effective and timely solutions. I have helped resolve conflicts between team members and encouraged others who have lost confidence. 
 
 **Adaptable** <br>
 Managing diverse production crews ranging from 20 to 250 people in Europe and the United States meant that I had to be flexible in my approach to different members of the team. I also needed to have an in-depth knowledge of everyone’s roles and all resources available ready to step into a number of different positions in order to counter unexpected problems.
