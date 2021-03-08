@@ -1,6 +1,6 @@
 <div align="center">
 
-# JAMES CLARK [<img src="https://image.flaticon.com/icons/svg/174/174857.svg" height=30 width=30>](https://uk.linkedin.com/in/james-clark-1a6558ba) [<img src="https://smallimg.pngkey.com/png/small/196-1963105_pdf-download-icon-png-clipart-computer-icons-clip.png" height=32 >](https://github.com/jmsclrk/CV/raw/master/jamesclark-cv.pdf) # 
+# JAMES CLARK [<img src="https://image.flaticon.com/icons/svg/174/174857.svg" height=35 width=35>](https://uk.linkedin.com/in/james-clark-1a6558ba) [<img src="https://www.iconpacks.net/icons/2/free-pdf-download-icon-3388-thumb.png" height=38 >](https://github.com/jmsclrk/CV/raw/master/jamesclark-cv.pdf) # 
 
 [Background](#background) | [Coding](#coding) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 </div>
