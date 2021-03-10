@@ -1,6 +1,7 @@
 <div align="center">
 
-# JAMES CLARK [<img src="https://image.flaticon.com/icons/svg/174/174857.svg" height=30 width=30>](https://uk.linkedin.com/in/james-clark-1a6558ba) #
+[<img src="https://image.flaticon.com/icons/svg/174/174857.svg" height=43 width=43>](https://uk.linkedin.com/in/james-clark-1a6558ba) [<img src="https://www.iconpacks.net/icons/2/free-pdf-download-icon-3388-thumb.png" height=45 >](https://github.com/jmsclrk/CV/raw/master/jamesclark-cv.pdf)
+# JAMES CLARK # 
 
 [Background](#background) | [Coding](#coding) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 </div>
