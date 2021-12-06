@@ -6,7 +6,7 @@
 [Background](#background) | [Coding](#coding) | [Education](#education) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
 </div>
 
-A Makers Academy graduate, with two live freelance projects, who has been employed as an Integration Engineer for the past year. I'm a full stack software developer combining strong technical knowledge with ample training in favoured coding practices, backed by 4 years in broadcast within production/project management roles.
+A Makers Academy graduate, with two previously live freelance projects, who is currently employed as software engineer. I'm a full stack software developer combining strong technical knowledge with ample training in favoured coding practices, backed by 4 years in broadcast within production/project management roles.
 <br>
 
 ## BACKGROUND ##
@@ -21,6 +21,15 @@ I am looking to bring my drive, dedication and user-focused approach to a team w
 ## CODING ##
 [![tech-skills](https://github.com/jmsclrk/CV/blob/master/images/tech-skills.jpg?raw=true)](#coding)
 ### PROFFESIONAL TECH ROLES ###
+**Full Stack Software Engineer at Deloitte Simulation and Digital Twins (Jun 2021 - Present)** <br>
+*	Designed and delivered custom frontend apps using ReactJS.
+*	Built backend APIs and integrate with complex simulation models.
+*	Developed, designed, and built complete system architectures.
+*	Web app lead on client projects, driving development and managing client expectations.
+*	Managed project plan and DevOps tasks for the web development workstream, allocated work to a team of developers. 
+*	Balanced workload across several client projects, pitches, and internal projects. 
+
+
 **Integration Engineer at Avado (Mar 2020 - Feb 2021)** <br>
 * Built and deployed C# web apps that integrated Avado's systems and automated time consuming processes. 
 * Faced complex coding challenges working with large data objects and integrating with numerous 3rd party APIs, developing reusable components to simplify working with external tools and services used by Avado.
