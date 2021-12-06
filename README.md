@@ -35,14 +35,14 @@ I am looking to bring my drive, dedication and user-focused approach to a team w
 [<img src="https://github.com/jmsclrk/CV/blob/master/images/gympad-logo.png" height=100 width=100>](https://apps.apple.com/gb/app/gympad/id1505074064) <br>
 **GymPad (React Native / Django / Docker)** <br> 
 _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build my own._ <br>
-[App Store](https://apps.apple.com/gb/app/gympad/id1505074064/) / [Video Demo (3 mins)](https://youtu.be/LDuSeBwlIoE) / [Code Base](https://github.com/jmsclrk/gympad-frontend)
+[Video Demo (3 mins)](https://youtu.be/LDuSeBwlIoE) / [Code Base](https://github.com/jmsclrk/gympad-frontend)
 * Gym tracking notes app.
 * Highly customisable workouts, streamlined editing.
 * Well thought out object relationships.
 * Offline management and version control allowing seamless use online, offline and across numerous devices.
 * Dark mode and customisable themes.
 * Reusable exercises with autocomplete feature.
-* Currently only released to iOS but has been built Android ready. 
+* Previously released to iOS but has been built Android ready.
 * See the video demo for app breakdown and future features.
 <br>
 
@@ -50,6 +50,7 @@ _Couldn't find a gym notes app I liked, so saw the perfect opportunity to build 
 **Amma Hackney (React / Django)** <br> 
 _A new food business offering monthly supper clubs delivered, based in Hackney, London._ <br>
 [ammahackney.co.uk](https://www.ammahackney.co.uk) (if orders currently closed, view active order form screenshot [here](https://github.com/jmsclrk/CV/blob/master/images/AH-orderpage.png))
+* Currently taken down, to be redeployed in 2022.
 * Responsive layout snaps between one and two panels depending on screen width.
 * Order form POSTs to Django backend, submits order to Google Forms before emailing confirmation via the Gmail API.
 * Admin area to manage menu, order dates and instructions.
